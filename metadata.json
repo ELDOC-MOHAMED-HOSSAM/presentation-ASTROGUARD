@@ -1,6 +1,0 @@
-{
-  "name": "AstroGuard — Mission Medical Hub",
-  "description": "Crew health hub: daily countermeasure exercises, vital-sign thresholds, medical training scenarios and radiation dosimetry. Based on NASA HRP and CSA material.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
